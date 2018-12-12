@@ -30,6 +30,15 @@ h6 {
 }
 
 
+h3 {
+  margin-top: 100px;
+}
+
+li {
+  margin-bottom: 25px;
+}
+
+
 .spacer {
   padding-bottom: 50px;
 }
@@ -102,11 +111,21 @@ header.masthead .site-heading {
   color: #00859e;
 }
 
+.anchor-link {
+  font-color: #00859e;
+}
+
 .bold {
   font-weight: 700;
 }
 
 .italic {
   font-style: italic;
+}
+
+.grey-border {
+  border: 1px solid #cccccc;
+  padding: 0px;
+  border-radius: 3px;
 }
 
