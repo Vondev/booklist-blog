@@ -81,4 +81,24 @@ header.masthead .site-heading {
   font-size: 16pt;
 }
 
+.article-image {
+  margin: 0 auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.full-width {
+  margin: 0 auto;
+  max-width: 900px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.article-image img {
+  width: 100%;
+}
+
+.anchor-link a {
+  color: #00859e;
+}
 
