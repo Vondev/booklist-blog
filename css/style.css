@@ -102,3 +102,11 @@ header.masthead .site-heading {
   color: #00859e;
 }
 
+.bold {
+  font-weight: 700;
+}
+
+.italic {
+  font-style: italic;
+}
+
